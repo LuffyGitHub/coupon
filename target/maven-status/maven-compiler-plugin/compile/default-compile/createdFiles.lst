@@ -1,0 +1,7 @@
+com\coupon\pojo\User.class
+com\coupon\dao\IUserDao.class
+com\coupon\service\impl\UserServiceImpl.class
+com\coupon\service\IUserService.class
+com\coupon\controller\UserController.class
+com\coupon\entity\QRCodeImageBean.class
+com\coupon\utils\QRCode.class
